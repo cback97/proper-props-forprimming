@@ -5,4 +5,4 @@
 [x] - Build 'Footer' component
 [x] - Build 'Guest List' component
 [x] - Build 'Dinner Supplies' component
-[] - Build 'Guest Form' component
+[x] - Build 'Guest Form' component
