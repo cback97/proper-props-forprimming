@@ -3,6 +3,6 @@
 [x] - create database per database.sql
 [x] - Build 'Header' component
 [x] - Build 'Footer' component
-[] - Build 'Guest List' component
-[] - Build 'Dinner Supplies' component
+[x] - Build 'Guest List' component
+[x] - Build 'Dinner Supplies' component
 [] - Build 'Guest Form' component
